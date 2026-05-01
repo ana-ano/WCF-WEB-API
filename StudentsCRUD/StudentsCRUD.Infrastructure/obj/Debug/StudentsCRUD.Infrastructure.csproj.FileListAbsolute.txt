@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Infrastructure\bin\Debug\StudentsCRUD.Infrastructure.dll
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Infrastructure\bin\Debug\StudentsCRUD.Infrastructure.pdb
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Infrastructure\bin\Debug\StudentsCRUD.Domain.dll
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Infrastructure\bin\Debug\StudentsCRUD.Domain.pdb
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Infrastructure\obj\Debug\StudentsCRUD.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Infrastructure\obj\Debug\StudentsCRUD.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Infrastructure\obj\Debug\Students.8757EC82.Up2Date
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Infrastructure\obj\Debug\StudentsCRUD.Infrastructure.dll
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Infrastructure\obj\Debug\StudentsCRUD.Infrastructure.pdb
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Infrastructure\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Infrastructure\bin\Debug\System.Data.SqlClient.xml

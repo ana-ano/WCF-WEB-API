@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Domain\bin\Debug\StudentsCRUD.Domain.dll
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Domain\bin\Debug\StudentsCRUD.Domain.pdb
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Domain\obj\Debug\StudentsCRUD.Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Domain\obj\Debug\StudentsCRUD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Domain\obj\Debug\StudentsCRUD.Domain.dll
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Domain\obj\Debug\StudentsCRUD.Domain.pdb

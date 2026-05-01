@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33052665-89C2-4E91-B16E-171062B8F751}|StudentsCRUD.API2\\StudentsCRUD.API2.csproj|c:\\users\\lenovo\\source\\repos\\studentscrud\\studentscrud.api2\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33052665-89C2-4E91-B16E-171062B8F751}|StudentsCRUD.API2\\StudentsCRUD.API2.csproj|solutionrelative:studentscrud.api2\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\xampp\\htdocs\\WCF_2026\\Classwork_3\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\xampp\\htdocs\\WCF_2026\\Classwork_3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\xampp\\htdocs\\WCF_2026\\Lecture_7Infrastructure\\AppDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|StudentsCRUDS.API||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E841BF-8F06-498C-A6C8-4CD76319C84A}|StudentsCRUD.Infrastructure\\StudentsCRUD.Infrastructure.csproj|C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\studentscrud.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E841BF-8F06-498C-A6C8-4CD76319C84A}|StudentsCRUD.Infrastructure\\StudentsCRUD.Infrastructure.csproj|solutionrelative:studentscrud.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67473CC5-41C8-4397-99A8-4438569ADEA6}|StudentsCRUD.Application\\StudentsCRUD.Application.csproj|C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\studentscrud.application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67473CC5-41C8-4397-99A8-4438569ADEA6}|StudentsCRUD.Application\\StudentsCRUD.Application.csproj|solutionrelative:studentscrud.application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67473CC5-41C8-4397-99A8-4438569ADEA6}|StudentsCRUD.Application\\StudentsCRUD.Application.csproj|C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\studentscrud.application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67473CC5-41C8-4397-99A8-4438569ADEA6}|StudentsCRUD.Application\\StudentsCRUD.Application.csproj|solutionrelative:studentscrud.application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67473CC5-41C8-4397-99A8-4438569ADEA6}|StudentsCRUD.Application\\StudentsCRUD.Application.csproj|C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\studentscrud.application\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67473CC5-41C8-4397-99A8-4438569ADEA6}|StudentsCRUD.Application\\StudentsCRUD.Application.csproj|solutionrelative:studentscrud.application\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D23EFD-0B8F-425A-B598-543CF4C3FB42}|StudentsCRUD.Domain\\StudentsCRUD.Domain.csproj|C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\studentscrud.domain\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D23EFD-0B8F-425A-B598-543CF4C3FB42}|StudentsCRUD.Domain\\StudentsCRUD.Domain.csproj|solutionrelative:studentscrud.domain\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D23EFD-0B8F-425A-B598-543CF4C3FB42}|StudentsCRUD.Domain\\StudentsCRUD.Domain.csproj|C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\studentscrud.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D23EFD-0B8F-425A-B598-543CF4C3FB42}|StudentsCRUD.Domain\\StudentsCRUD.Domain.csproj|solutionrelative:studentscrud.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\StudentsCRUD.API2\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentsCRUD.API2\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\StudentsCRUD.API2\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentsCRUD.API2\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA4wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T19:43:28.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\xampp\\htdocs\\WCF_2026\\Classwork_3\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\xampp\\htdocs\\WCF_2026\\Classwork_3\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T19:34:04.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\xampp\\htdocs\\WCF_2026\\Classwork_3\\Program.cs",
+              "ToolTip": "D:\\xampp\\htdocs\\WCF_2026\\Classwork_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T19:33:51.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\xampp\\htdocs\\WCF_2026\\Lecture_7Infrastructure\\AppDBContext.cs",
+              "ToolTip": "D:\\xampp\\htdocs\\WCF_2026\\Lecture_7Infrastructure\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T19:33:48.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsCRUDS.API",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\StudentsCRUDS.API\\StudentsCRUDS.API.csproj",
+              "RelativeDocumentMoniker": "StudentsCRUDS.API\\StudentsCRUDS.API.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\StudentsCRUDS.API\\StudentsCRUDS.API.csproj",
+              "RelativeToolTip": "StudentsCRUDS.API\\StudentsCRUDS.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-01T19:20:44.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\StudentsCRUD.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentsCRUD.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\StudentsCRUD.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "StudentsCRUD.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAmwFQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T17:52:55.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\StudentsCRUD.Application\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentsCRUD.Application\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\StudentsCRUD.Application\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentsCRUD.Application\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T17:47:42.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\StudentsCRUD.Application\\DTOs\\StudentDto.cs",
+              "RelativeDocumentMoniker": "StudentsCRUD.Application\\DTOs\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\StudentsCRUD.Application\\DTOs\\StudentDto.cs",
+              "RelativeToolTip": "StudentsCRUD.Application\\DTOs\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:28:46.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\StudentsCRUD.Application\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentsCRUD.Application\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\StudentsCRUD.Application\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "StudentsCRUD.Application\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T17:51:58.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\StudentsCRUD.Domain\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentsCRUD.Domain\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\StudentsCRUD.Domain\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentsCRUD.Domain\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:27:29.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\StudentsCRUD.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentsCRUD.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\StudentsCRUD\\StudentsCRUD.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentsCRUD.Domain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:27:11.442Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 124,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

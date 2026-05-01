@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.WCF\obj\Debug\StudentsCRUD.WCF.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.WCF\obj\Debug\StudentsCRUD.WCF.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.WCF\bin\StudentsCRUD.WCF.dll.config
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.WCF\bin\StudentsCRUD.WCF.dll
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.WCF\bin\StudentsCRUD.WCF.pdb
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.WCF\bin\StudentsCRUD.Application.dll
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.WCF\bin\StudentsCRUD.Domain.dll
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.WCF\bin\StudentsCRUD.Infrastructure.dll
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.WCF\bin\StudentsCRUD.Application.pdb
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.WCF\bin\StudentsCRUD.Domain.pdb
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.WCF\bin\StudentsCRUD.Infrastructure.pdb
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.WCF\obj\Debug\Students.E8BEB354.Up2Date
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.WCF\obj\Debug\StudentsCRUD.WCF.dll
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.WCF\obj\Debug\StudentsCRUD.WCF.pdb

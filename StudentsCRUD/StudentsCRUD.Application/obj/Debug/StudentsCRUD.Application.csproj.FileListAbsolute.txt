@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Application\bin\Debug\StudentsCRUD.Application.dll
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Application\bin\Debug\StudentsCRUD.Application.pdb
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Application\bin\Debug\StudentsCRUD.Domain.dll
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Application\bin\Debug\StudentsCRUD.Domain.pdb
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Application\obj\Debug\StudentsCRUD.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Application\obj\Debug\StudentsCRUD.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Application\obj\Debug\Students.55DF0CDB.Up2Date
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Application\obj\Debug\StudentsCRUD.Application.dll
+C:\Users\Lenovo\source\repos\StudentsCRUD\StudentsCRUD.Application\obj\Debug\StudentsCRUD.Application.pdb
