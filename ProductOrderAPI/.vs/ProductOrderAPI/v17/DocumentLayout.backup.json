@@ -1,0 +1,535 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA658B6-4462-4F40-B93B-7765BE70A9F7}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.infrastructure\\migrations\\20260610004712_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA658B6-4462-4F40-B93B-7765BE70A9F7}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|solutionrelative:productorderapi.infrastructure\\migrations\\20260610004712_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477CEF9B-2EF6-44F8-9D59-1AB666F7B03D}|ProductOrderAPI.API\\ProductOrderAPI.API.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477CEF9B-2EF6-44F8-9D59-1AB666F7B03D}|ProductOrderAPI.API\\ProductOrderAPI.API.csproj|solutionrelative:productorderapi.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA658B6-4462-4F40-B93B-7765BE70A9F7}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.infrastructure\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA658B6-4462-4F40-B93B-7765BE70A9F7}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|solutionrelative:productorderapi.infrastructure\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C02A7E0-625A-4CA1-9B77-6D265DA41499}|ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C02A7E0-625A-4CA1-9B77-6D265DA41499}|ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj|solutionrelative:productorderapi.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.application\\services\\orderlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|solutionrelative:productorderapi.application\\services\\orderlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477CEF9B-2EF6-44F8-9D59-1AB666F7B03D}|ProductOrderAPI.API\\ProductOrderAPI.API.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477CEF9B-2EF6-44F8-9D59-1AB666F7B03D}|ProductOrderAPI.API\\ProductOrderAPI.API.csproj|solutionrelative:productorderapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477CEF9B-2EF6-44F8-9D59-1AB666F7B03D}|ProductOrderAPI.API\\ProductOrderAPI.API.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.api\\middleware\\jwtauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477CEF9B-2EF6-44F8-9D59-1AB666F7B03D}|ProductOrderAPI.API\\ProductOrderAPI.API.csproj|solutionrelative:productorderapi.api\\middleware\\jwtauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|solutionrelative:productorderapi.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA658B6-4462-4F40-B93B-7765BE70A9F7}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA658B6-4462-4F40-B93B-7765BE70A9F7}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|solutionrelative:productorderapi.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477CEF9B-2EF6-44F8-9D59-1AB666F7B03D}|ProductOrderAPI.API\\ProductOrderAPI.API.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477CEF9B-2EF6-44F8-9D59-1AB666F7B03D}|ProductOrderAPI.API\\ProductOrderAPI.API.csproj|solutionrelative:productorderapi.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477CEF9B-2EF6-44F8-9D59-1AB666F7B03D}|ProductOrderAPI.API\\ProductOrderAPI.API.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477CEF9B-2EF6-44F8-9D59-1AB666F7B03D}|ProductOrderAPI.API\\ProductOrderAPI.API.csproj|solutionrelative:productorderapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477CEF9B-2EF6-44F8-9D59-1AB666F7B03D}|ProductOrderAPI.API\\ProductOrderAPI.API.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477CEF9B-2EF6-44F8-9D59-1AB666F7B03D}|ProductOrderAPI.API\\ProductOrderAPI.API.csproj|solutionrelative:productorderapi.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477CEF9B-2EF6-44F8-9D59-1AB666F7B03D}|ProductOrderAPI.API\\ProductOrderAPI.API.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477CEF9B-2EF6-44F8-9D59-1AB666F7B03D}|ProductOrderAPI.API\\ProductOrderAPI.API.csproj|solutionrelative:productorderapi.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA658B6-4462-4F40-B93B-7765BE70A9F7}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.infrastructure\\services\\userstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA658B6-4462-4F40-B93B-7765BE70A9F7}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|solutionrelative:productorderapi.infrastructure\\services\\userstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA658B6-4462-4F40-B93B-7765BE70A9F7}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA658B6-4462-4F40-B93B-7765BE70A9F7}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|solutionrelative:productorderapi.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA658B6-4462-4F40-B93B-7765BE70A9F7}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA658B6-4462-4F40-B93B-7765BE70A9F7}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|solutionrelative:productorderapi.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA658B6-4462-4F40-B93B-7765BE70A9F7}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA658B6-4462-4F40-B93B-7765BE70A9F7}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|solutionrelative:productorderapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|solutionrelative:productorderapi.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.application\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|solutionrelative:productorderapi.application\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.application\\dtos\\pagedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|solutionrelative:productorderapi.application\\dtos\\pagedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|solutionrelative:productorderapi.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|solutionrelative:productorderapi.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|solutionrelative:productorderapi.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.application\\productorderapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{182E6311-70D9-42E5-A10B-920C199A3C1B}|ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj|solutionrelative:productorderapi.application\\productorderapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C02A7E0-625A-4CA1-9B77-6D265DA41499}|ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C02A7E0-625A-4CA1-9B77-6D265DA41499}|ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj|solutionrelative:productorderapi.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C02A7E0-625A-4CA1-9B77-6D265DA41499}|ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.domain\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C02A7E0-625A-4CA1-9B77-6D265DA41499}|ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj|solutionrelative:productorderapi.domain\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C02A7E0-625A-4CA1-9B77-6D265DA41499}|ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C02A7E0-625A-4CA1-9B77-6D265DA41499}|ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj|solutionrelative:productorderapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C02A7E0-625A-4CA1-9B77-6D265DA41499}|ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C02A7E0-625A-4CA1-9B77-6D265DA41499}|ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj|solutionrelative:productorderapi.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C02A7E0-625A-4CA1-9B77-6D265DA41499}|ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C02A7E0-625A-4CA1-9B77-6D265DA41499}|ProductOrderAPI.Domain\\ProductOrderAPI.Domain.csproj|solutionrelative:productorderapi.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA658B6-4462-4F40-B93B-7765BE70A9F7}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\productorderapi\\productorderapi.infrastructure\\productorderapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0BA658B6-4462-4F40-B93B-7765BE70A9F7}|ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj|solutionrelative:productorderapi.infrastructure\\productorderapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260610004712_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Migrations\\20260610004712_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Infrastructure\\Migrations\\20260610004712_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Migrations\\20260610004712_InitialCreate.cs",
+              "RelativeToolTip": "ProductOrderAPI.Infrastructure\\Migrations\\20260610004712_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:47:12.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProductOrderAPI.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADwv0IAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:19:12.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Data\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Infrastructure\\Data\\StoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Data\\StoreDbContext.cs",
+              "RelativeToolTip": "ProductOrderAPI.Infrastructure\\Data\\StoreDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:14:29.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "ProductOrderAPI.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:45:08.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\Services\\OrderLogic.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Application\\Services\\OrderLogic.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\Services\\OrderLogic.cs",
+              "RelativeToolTip": "ProductOrderAPI.Application\\Services\\OrderLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:30:54.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.API\\Program.cs",
+              "RelativeToolTip": "ProductOrderAPI.API\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwFwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:20:30.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtAuthMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.API\\Middleware\\JwtAuthMiddleware.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.API\\Middleware\\JwtAuthMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.API\\Middleware\\JwtAuthMiddleware.cs",
+              "RelativeToolTip": "ProductOrderAPI.API\\Middleware\\JwtAuthMiddleware.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:30:23.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "ProductOrderAPI.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADQAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:13:34.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "ProductOrderAPI.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:22:35.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ProductOrderAPI.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:20:01.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductOrderAPI.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:19:45.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ProductOrderAPI.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:19:31.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "ProductOrderAPI.API\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:17:13.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserStore.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Services\\UserStore.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Infrastructure\\Services\\UserStore.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Services\\UserStore.cs",
+              "RelativeToolTip": "ProductOrderAPI.Infrastructure\\Services\\UserStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:16:30.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Infrastructure\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Services\\JwtService.cs",
+              "RelativeToolTip": "ProductOrderAPI.Infrastructure\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:16:14.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "ProductOrderAPI.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:15:33.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductOrderAPI.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:15:16.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductOrderAPI.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAywHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:13:15.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\DTOs\\AuthDto.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Application\\DTOs\\AuthDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\DTOs\\AuthDto.cs",
+              "RelativeToolTip": "ProductOrderAPI.Application\\DTOs\\AuthDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:12:23.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PagedResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\DTOs\\PagedResultDto.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Application\\DTOs\\PagedResultDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\DTOs\\PagedResultDto.cs",
+              "RelativeToolTip": "ProductOrderAPI.Application\\DTOs\\PagedResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:12:07.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Application\\DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "ProductOrderAPI.Application\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:11:49.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "ProductOrderAPI.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:11:31.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Application\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "ProductOrderAPI.Application\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:11:12.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductOrderAPI.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj",
+              "RelativeToolTip": "ProductOrderAPI.Application\\ProductOrderAPI.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-10T00:10:46.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ProductOrderAPI.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:08:09.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Domain\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Domain\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Domain\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "ProductOrderAPI.Domain\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:08:20.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductOrderAPI.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:07:48.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "ProductOrderAPI.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:07:38.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "ProductOrderAPI.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T00:07:57.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductOrderAPI.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ProductOrderAPI\\ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj",
+              "RelativeToolTip": "ProductOrderAPI.Infrastructure\\ProductOrderAPI.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-10T00:02:35.268Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 124,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

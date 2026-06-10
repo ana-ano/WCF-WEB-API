@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProductOrderAPI.Application/1.0.0": {
+        "dependencies": {
+          "ProductOrderAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ProductOrderAPI.Application.dll": {}
+        }
+      },
+      "ProductOrderAPI.Domain/1.0.0": {
+        "runtime": {
+          "ProductOrderAPI.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductOrderAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductOrderAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

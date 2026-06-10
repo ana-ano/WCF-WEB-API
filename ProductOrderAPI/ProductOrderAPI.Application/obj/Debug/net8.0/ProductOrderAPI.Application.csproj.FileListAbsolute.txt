@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Application\bin\Debug\net8.0\ProductOrderAPI.Application.deps.json
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Application\bin\Debug\net8.0\ProductOrderAPI.Application.dll
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Application\bin\Debug\net8.0\ProductOrderAPI.Application.pdb
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Application\bin\Debug\net8.0\ProductOrderAPI.Domain.dll
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Application\bin\Debug\net8.0\ProductOrderAPI.Domain.pdb
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net8.0\ProductOrderAPI.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net8.0\ProductOrderAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net8.0\ProductOrderAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net8.0\ProductOrderAPI.Application.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net8.0\ProductOrderAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net8.0\ProductO.9C737287.Up2Date
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net8.0\ProductOrderAPI.Application.dll
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net8.0\refint\ProductOrderAPI.Application.dll
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net8.0\ProductOrderAPI.Application.pdb
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Application\obj\Debug\net8.0\ref\ProductOrderAPI.Application.dll

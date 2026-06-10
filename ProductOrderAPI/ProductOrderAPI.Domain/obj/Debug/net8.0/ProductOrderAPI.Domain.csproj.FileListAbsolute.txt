@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Domain\bin\Debug\net8.0\ProductOrderAPI.Domain.deps.json
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Domain\bin\Debug\net8.0\ProductOrderAPI.Domain.dll
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Domain\bin\Debug\net8.0\ProductOrderAPI.Domain.pdb
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Domain\obj\Debug\net8.0\ProductOrderAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Domain\obj\Debug\net8.0\ProductOrderAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Domain\obj\Debug\net8.0\ProductOrderAPI.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Domain\obj\Debug\net8.0\ProductOrderAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Domain\obj\Debug\net8.0\ProductOrderAPI.Domain.dll
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Domain\obj\Debug\net8.0\refint\ProductOrderAPI.Domain.dll
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Domain\obj\Debug\net8.0\ProductOrderAPI.Domain.pdb
+C:\Users\Lenovo\source\repos\ProductOrderAPI\ProductOrderAPI.Domain\obj\Debug\net8.0\ref\ProductOrderAPI.Domain.dll
